@@ -1,5 +1,9 @@
 # Modern Flatland
 
+https://alexalemi.github.io/flatland
+
+https://alexalemi.com/flatland
+
 This is a "translation" of flatland into contemporary english, powered by
 Claude Sonnet 3.5.
 
