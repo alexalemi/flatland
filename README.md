@@ -26,6 +26,10 @@ Sonnet 3.5 provided the "translation", and the design of the webpage was
 inspired by the design of the wonderful website version of another fantastic
 old book [Calculus Made Easy](https://calculusmadeeasy.org/).
 
+If you wish to read the original, I highly recommend the [Standard Ebooks
+edition](https://standardebooks.org/ebooks/edwin-a-abbott/flatland), which
+contributes beautiful typography to a beautiful book.
+
 I hope this little project can broaden the reach of one of the most impactful
 books I've read.
 
